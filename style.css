@@ -155,7 +155,7 @@ p{
 	z-index: 100;
 	cursor: pointer;
 	transform: scale(0.8);
-	margin-right: 40px;
+	margin-right: 60px;
 }
 
 #header .hamburger:after {
